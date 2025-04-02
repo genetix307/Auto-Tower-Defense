@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"show_perks_menu",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"show_perks_menu",
+  "parent":{
+    "name":"Perks",
+    "path":"folders/Scripts/Perks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

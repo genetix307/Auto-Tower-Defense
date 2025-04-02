@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"effect_btn",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"effect_btn",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Scripts/Effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
