@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"Towers",
-    "path":"folders/Sprites/Environment/Towers.yy",
+    "name":"NPC",
+    "path":"folders/Sprites/Environment/NPC.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

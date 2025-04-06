@@ -7,8 +7,6 @@
     {"name":"Perks","order":1,"path":"folders/Scripts/Perks.yy",},
     {"name":"BG","order":2,"path":"folders/Sprites/BG.yy",},
     {"name":"Environment","order":1,"path":"folders/Sprites/Environment.yy",},
-    {"name":"Towers","order":1,"path":"folders/Sprites/Environment/Towers.yy",},
-    {"name":"NPC","order":3,"path":"folders/Sprites/NPC.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"AdMobIronSource","order":1,"path":"extensions/AdMobIronSource/AdMobIronSource.yy",},
@@ -88,5 +86,6 @@
     {"name":"spr_lonetower_ad","order":14,"path":"sprites/spr_lonetower_ad/spr_lonetower_ad.yy",},
     {"name":"spr_show_gem","order":4,"path":"sprites/spr_show_gem/spr_show_gem.yy",},
     {"name":"spr_show_lifesteal","order":2,"path":"sprites/spr_show_lifesteal/spr_show_lifesteal.yy",},
+    {"name":"spr_turret_machinegun","order":1,"path":"sprites/spr_turret_machinegun/spr_turret_machinegun.yy",},
   ],
 }
